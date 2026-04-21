@@ -50,7 +50,7 @@ module "rds" {
 }
 
 module "alb" {
-  source = "../modules/alb-tg"
+  source = "./modules/alb-tg"
 
   public-subnet-name1 = var.PUBLIC-SUBNET1
   public-subnet-name2 = var.PUBLIC-SUBNET2
