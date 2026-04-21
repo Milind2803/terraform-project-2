@@ -47,7 +47,7 @@ ASG-NAME             = "Two-Tier-ASG"
 
 
 # CLOUDFRONT
-DOMAIN-NAME = "amanpathakdevops.study"
+DOMAIN-NAME = "portfoliobymilind.online"
 CDN-NAME    = "Two-Tier-CDN"
 
 # WAF
